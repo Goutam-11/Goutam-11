@@ -1,93 +1,54 @@
-# 👋 Hey, I'm Goutam Kumar Sharma
+# ◈ Goutam Kumar Sharma
 
-### AI Engineer • Full-Stack Developer • Builder
+### `AI Engineer` · `Full-Stack Developer` · `Systems Builder`
 
-I build **AI-powered systems, workflow editors, developer tools, and intelligent applications**.
+> **Building software where AI, workflows and automation meet.**
 
-My main focus is at the intersection of:
+I work on **AI-powered applications, workflow editors, intelligent agents and full-stack systems**.
 
-* 🤖 **AI / ML / Deep Learning**
-* 🧠 **AI Agents & LLM applications**
-* 🔄 **Workflow automation & visual editors**
-* 🌐 **Full-stack web development**
-* ⚡ **Backend systems & APIs**
-* 🧪 **Experimentation and rapid prototyping**
-
-> **I like turning complex ideas into systems that actually work.**
-
-Currently exploring how AI agents, workflows, tools, and software systems can be combined into more autonomous applications.
+My interests sit across the stack — from designing interfaces and APIs to experimenting with ML models and connecting AI systems into real products.
 
 ---
 
-## 🧠 What I'm Building
+## ⟡ What I Do
+
+**⌬ AI Engineering**
+LLMs · AI Agents · Tool Calling · RAG · AI Workflows
+
+**◉ Machine Learning**
+Machine Learning · Deep Learning · Computer Vision · NLP · Embeddings
+
+**◇ Systems**
+Workflow Engines · Automation · APIs · Real-time Systems · Backend Architecture
+
+**▸ Product Engineering**
+React · Next.js · TypeScript · Python · Node.js · Cloud Infrastructure
+
+---
+
+## ⟁ Current Focus
 
 ```text
-AI
-├── LLM Applications
-├── AI Agents
-├── RAG & Tool Calling
-├── Machine Learning
-├── Deep Learning
-└── Computer Vision
-
-Systems
-├── Workflow Engines
-├── Visual Workflow Editors
-├── APIs & Backend Systems
-├── Distributed / Event-driven Systems
-└── Automation
-
-Web
-├── React / Next.js
-├── TypeScript
-├── Node.js
-├── Python
-└── Modern Cloud Infrastructure
+                    AI SYSTEMS
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       AGENTS       WORKFLOWS       TOOLS
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                   APPLICATIONS
+                        │
+             ┌──────────┴──────────┐
+             │                     │
+          AUTOMATION           INTELLIGENCE
 ```
 
----
-
-## 🚀 Featured Work
-
-### 🧩 AI Workflow Systems
-
-Building workflow-based systems that connect **AI models, tools, APIs and application logic** into executable pipelines.
-
-**Focus:** workflow orchestration • tool calling • agents • automation • visual editors
+Currently exploring how **AI agents + tools + workflows + software infrastructure** can become reliable, production-ready systems.
 
 ---
 
-### 🤖 AI & Machine Learning
-
-Working with machine learning and deep learning systems including:
-
-* Model experimentation
-* Computer vision
-* NLP
-* Embeddings
-* Prediction systems
-* AI-assisted automation
-* LLM-powered applications
-
----
-
-### 🌐 Full-Stack Applications
-
-I build production-oriented applications using modern web technologies, from **frontend → backend → database → deployment**.
-
-Some areas I've worked with:
-
-* SaaS applications
-* E-commerce
-* Payment systems
-* Automation platforms
-* Admin dashboards
-* APIs
-* Real-time applications
-
----
-
-## 🛠️ Tech Stack
+# ⌬ Technology
 
 ### Languages
 
@@ -97,7 +58,7 @@ Some areas I've worked with:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### AI / ML
+### AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
@@ -114,7 +75,6 @@ Some areas I've worked with:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
 
 ### Backend
 
@@ -124,39 +84,71 @@ Some areas I've worked with:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 
-### Databases & Infrastructure
+### Data & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+# ◆ Selected Work
+
+### ⌁ AI Workflow Systems
+
+Designing systems that connect **models, tools, APIs and application logic** into executable workflows.
+
+`AI` · `Agents` · `Tool Calling` · `Automation` · `Workflow Engines`
+
+### ⬡ Intelligent Applications
+
+Building applications where AI is part of the **core product architecture**, rather than simply being a chatbot bolted onto an existing application.
+
+### ◇ Full-Stack Systems
+
+End-to-end development covering:
+
+`Frontend → API → Database → Infrastructure → Deployment`
+
+---
+
+# ⟡ Engineering Approach
+
+```text
+IDEA
+  ↓
+ARCHITECTURE
+  ↓
+PROTOTYPE
+  ↓
+BREAK IT
+  ↓
+UNDERSTAND IT
+  ↓
+IMPROVE IT
+  ↓
+SHIP
+```
+
+I learn fastest by building real systems, pushing them until they break, and then figuring out why.
+
+---
+
+# ◉ GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Goutam-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<a href="https://github.com/Goutam-11">
+<img src="https://img.shields.io/badge/GitHub-Goutam--11-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -164,23 +156,23 @@ Some areas I've worked with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Goutam-11&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Goutam-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Goutam-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://streak-stats.demolab.com/?user=Goutam-11&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# ⟁ Contributions
 
 <div align="center">
 
@@ -188,52 +180,43 @@ Some areas I've worked with:
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   🤖 AI Agents                               │
-│   🧩 Visual Workflow Systems                 │
-│   🧠 LLM Applications                        │
-│   🔬 Machine Learning / Deep Learning        │
-│   ⚡ Developer Tools                          │
-│   🌐 Production Full-Stack Systems           │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-I'm particularly interested in building systems where **AI isn't just a feature, but part of the underlying architecture.**
+> Your **native GitHub contribution calendar** is also displayed automatically by GitHub underneath your profile README.
 
 ---
 
-## 🧪 Engineering Philosophy
+# ✦ Trophies
 
-> Build → Break → Understand → Improve → Ship
+<div align="center">
 
-I prefer learning by building real systems rather than staying inside tutorials.
+<img src="https://github-profile-trophy.vercel.app/?username=Goutam-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
-I enjoy taking an idea from:
-
-**concept → architecture → prototype → implementation → deployment**
-
-and seeing where it breaks along the way.
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# ⌬ Beyond Code
+
+When I'm not building software:
+
+`Sketching` · `Anime` · `Reading` · `Experimenting` · `Breaking Things`
+
+---
+
+# ◈ Connect
 
 <div align="center">
 
 <a href="https://github.com/Goutam-11">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/goutam-kumar-sharma-0209b228a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Goutam-11&style=for-the-badge"/>
 
 </div>
 
@@ -241,12 +224,6 @@ and seeing where it breaks along the way.
 
 <div align="center">
 
-### 💡 Building something interesting?
-
-**Let's build it.**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Goutam-11\&style=for-the-badge\&color=blue)
+### ⟡ Build interesting things. Break assumptions. Ship better systems.
 
 </div>
